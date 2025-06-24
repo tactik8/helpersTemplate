@@ -14,6 +14,7 @@ This command will install the helper functions under the directory helpers.
 git clone https://github.com/tactik8/jsonldHelpers ./helpers
 ```
 
+
 ## Test and publish
 
 ```
