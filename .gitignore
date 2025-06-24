@@ -1,5 +1,7 @@
 # Ignore everything
 /*
+.replit
+style.css
 
 # But don't ignore this specific file
 !index.html
