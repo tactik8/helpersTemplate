@@ -1,0 +1,8 @@
+# Ignore everything
+/*
+
+# But don't ignore this specific file
+!index.html
+!script.js
+!/xxxHelpers/
+!.gitignore
